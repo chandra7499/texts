@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello hello amigoes.
+=======
+hello hello amigoes...
+>>>>>>> changes2
